@@ -245,7 +245,13 @@ body {
 	width: 180px;
 }
 
+h1 {
+	text-shadow: 2px 2px #FF0000;
+	text-align: left;
+	font-size: 98px;
+	margin-bottom:-240px;
 
+  }
 
 .animate-charcter
 {
@@ -278,10 +284,4 @@ body {
   }
 }
 
-h1 {
-	text-shadow: 2px 2px #FF0000;
-	text-align: left;
-	font-size: 98px;
-	margin-bottom:-240px;
 
-  }
