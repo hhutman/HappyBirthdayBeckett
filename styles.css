@@ -278,3 +278,10 @@ body {
   }
 }
 
+h1 {
+	text-shadow: 2px 2px #FF0000;
+	text-align: left;
+	font-size: 96px;
+	margin-bottom:-240px;
+
+  }
